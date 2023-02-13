@@ -1,7 +1,7 @@
 {
   "type": "FeatureCollection",
   "features": [
-{"type":"Feature","geometry":{"type":"LineString","coordinates":[[-123.0249569,49.2407190],[-123.0241582,49.2407165]]},"properties":{"valuePerSqm":4563,"growth":0.3592}},
+{"type":"Feature","geometry":{"type":"LineString","coordinates":[[-123.1095300,49.2700833],[-123.1108393,49.2700497]]},"properties":{"valuePerSqm":4563,"growth":0.3592}},
 {"type":"Feature","geometry":{"type":"LineString","coordinates":[[-123.0713722,49.2720583],[-123.0697150,49.2720458]]},"properties":{"valuePerSqm":2270,"growth":0.2653}},
 {"type":"Feature","geometry":{"type":"LineString","coordinates":[[-123.0716588,49.2715175],[-123.0733174,49.2715304]]},"properties":{"valuePerSqm":4338,"growth":0.2906}},
 {"type":"Feature","geometry":{"type":"LineString","coordinates":[[-123.0746276,49.2715849],[-123.0758105,49.2715899]]},"properties":{"valuePerSqm":3834,"growth":0.7270}},
