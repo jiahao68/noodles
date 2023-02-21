@@ -1,0 +1,12 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+{"type":"Feature","geometry":{"type":"LineString","coordinates":[[-123.1095300,49.2700833],[-123.1108393,49.2700497]]},"properties":{"valuePerSqm":4563,"growth":0.3592}},
+{"type":"Feature","geometry":{"type":"LineString","coordinates":[[-123.0713722,49.2720583],[-123.0697150,49.2720458]]},"properties":{"valuePerSqm":2270,"growth":0.2653}},
+{"type":"Feature","geometry":{"type":"LineString","coordinates":[[-123.0716588,49.2715175],[-123.0733174,49.2715304]]},"properties":{"valuePerSqm":4338,"growth":0.2906}},
+{"type":"Feature","geometry":{"type":"LineString","coordinates":[[-123.0746276,49.2715849],[-123.0758105,49.2715899]]},"properties":{"valuePerSqm":3834,"growth":0.7270}},
+{"type":"Feature","geometry":{"type":"LineString","coordinates":[[-123.0753056,49.2686511],[-123.0736492,49.2686383]]},"properties":{"valuePerSqm":6597,"growth":0.2703}},
+{"type":"Feature","geometry":{"type":"LineString","coordinates":[[-123.1538798,49.2248760],[-123.1527055,49.2228968]]},"properties":{"valuePerSqm":4470,"growth":0.3847}},
+{"type":"Feature","geometry":{"type":"LineString","coordinates":[[-123.0346061,49.2504651],[-123.0340085,49.2504672]]},"properties":{"valuePerSqm":4210,"growth":0.2715}}
+  ]
+}
