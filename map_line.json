@@ -1,7 +1,0 @@
-{
-  "type": "FeatureCollection",
-  "features": [
-{"type":"Feature","geometry":{"type":"LineString","coordinates":[[8.42335634006404,49.01074803198159],[8.423387436013432,49.01060598061077]]},"properties":{"valuePerSqm":4563,"growth":0.3592}},
-{"type":"Feature","geometry":{"type":"LineString","coordinates":[[ 8.423266016320545,49.01073830123954],[8.423298239312922,49.010601426725586]]},"properties":{"valuePerSqm":2270,"growth":0.2653}}
-  ]
-}
